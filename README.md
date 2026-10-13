@@ -56,7 +56,7 @@ Set up for VS Code with a virtual environment. Python 3.10 to 3.13.
 
 ```bash
 # 1. clone the repo
-git clone https://github.com/Suraj03-07/<repo-name>.git
+git clone https://github.com/Suraj03-07/ocr-doc-classifier.git
 cd <repo-name>
 
 # 2. create and activate a virtual environment
@@ -130,7 +130,7 @@ Evaluated on the 81 held-out test documents:
 
 ## Author
 
-`Suraj Tiwari` | [GitHub](https://github.com/Suraj03-07) | [LinkedIn](https://www.linkedin.com/in/<your-profile>)
+`Suraj Tiwari` | [GitHub](https://github.com/Suraj03-07) | [LinkedIn](https://www.linkedin.com/in/suraj-tiwari-1491a72a0)
 
 ## Licence
 
