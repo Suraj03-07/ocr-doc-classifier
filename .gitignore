@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Secrets (never commit these)
+.env
+.streamlit/secrets.toml
+kaggle.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and local data
+*.log
+tmp/
+data/
+dataset/
+uploads/

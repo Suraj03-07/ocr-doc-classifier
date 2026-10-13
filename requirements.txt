@@ -1,0 +1,9 @@
+streamlit
+paddlepaddle>=3.0        # CPU build; the notebook used the GPU build on Colab
+paddleocr
+pymupdf
+pillow
+pandas
+numpy
+scikit-learn==1.6.1            
+joblib
