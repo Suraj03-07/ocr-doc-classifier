@@ -8,7 +8,7 @@ Upload a PDF or an image of a document. The app reads the text with **PaddleOCR*
 
 ## What it does
 
-- Accepts a PDF (scanned or digital) or a JPG/PNG image.
+- Accepts a PDF (scanned or digital).
 - Extracts the text with PaddleOCR and shows it in the interface.
 - Predicts the document category (Invoice, Bill or Receipt) with a confidence score.
 - Shows a message when the document cannot be processed or the prediction is inconclusive.
@@ -16,7 +16,7 @@ Upload a PDF or an image of a document. The app reads the text with **PaddleOCR*
 ## How it works
 
 ```
- PDF / JPG / PNG
+       PDF 
         |
         v
  PDF pages rendered to images (PyMuPDF, 200 DPI, first 3 pages)
